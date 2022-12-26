@@ -6,16 +6,16 @@ module testbench;
 
 parameter t_sep = 250000;
 
-parameter w0 = 150;
-parameter w1 = 150;
-parameter w2 = 150;
-parameter w3 = 150;
-parameter w4 = 150;
-parameter w5 = 150;
-parameter w6 = 150;
-parameter w7 = 150;
-parameter w8 = 150;
-parameter w9 = 150;
+parameter w0 = 100;
+parameter w1 = 101;
+parameter w2 = 102;
+parameter w3 = 103;
+parameter w4 = 104;
+parameter w5 = 105;
+parameter w6 = 106;
+parameter w7 = 107;
+parameter w8 = 108;
+parameter w9 = 109;
 parameter w10 = 110;
 parameter w11 = 111;
 parameter w12 = 112;
